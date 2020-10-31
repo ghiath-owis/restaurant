@@ -29,6 +29,9 @@ class CreateProductsTable extends Migration
         });
     }
 
+
+    // bye
+
     /**
      * Reverse the migrations.
      *
